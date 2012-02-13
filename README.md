@@ -12,7 +12,7 @@ Unfortunately, I don't have time to actively maintain this project anymore, so o
 OpenSudoku is free, open source, and available under the  GNU GENERAL PUBLIC LICENSE Version 3.
 
 ## License
-Copyright 2012 Carlos Loredo
+Copyright 2012 Beatriz Magro
 
 Licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
@@ -26,7 +26,7 @@ Original Android App
 [http://code.google.com/p/opensudoku-android/](http://code.google.com/p/opensudoku-android/)   
 
 ## Author
-Carlos Loredo  
-[ascaodeveloping@gmail.com](mailto:ascaodeveloping@gmail.com)  
-[https://github.com/cloredo/opensudoku-blackberry](https://github.com/cloredo/opensudoku-blackberry)   
+Beatriz Magro  
+[galamapola@gmail.com](mailto:galamapola@gmail.com)  
+[https://github.com/bmagro/opensudoku-blackberry](https://github.com/bmagro/opensudoku-blackberry)   
 
